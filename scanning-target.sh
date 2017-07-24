@@ -1,5 +1,6 @@
 #!/bin/bash
 #AUTHOR: Bojan G. Kalicanin
+#DATE: 23-Jul-2017
 #SYNOPSIS: Basic TCP scan of target using 'netcat'.
 
 # Change IP address to the desired target

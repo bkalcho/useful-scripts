@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 __author__ = 'kalcho'
-# Send emails using different providers
+#DATE: 29=07-2017
+#SYNOPSIS: Send emails using different providers
 
 import smtplib
 from email.mime.text import MIMEText

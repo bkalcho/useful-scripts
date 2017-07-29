@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 __author__ = 'kalcho'
-# Download pdf files found on target website
+#DATE: 27-Jul-2017
+#SYNOPSIS: Download pdf files found on target website
 
 import requests
 from lxml import html
